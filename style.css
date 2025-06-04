@@ -59,6 +59,10 @@ html,body{
     gap: 10px;
 }
 
+#my_projects p{
+    color: black;
+}
+
 #socials{
     background-color: #ff4800;
     display: flex;
@@ -78,7 +82,7 @@ html,body{
 }
 
 #contacts a:hover{
-    color: black;
+    color: white;
 }
 
 #debut_stream{
@@ -135,11 +139,11 @@ h2{
 
 a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 a:visited{
-    color: white;
+    color: black;
 }
 
 @media (max-width: 768px) {
